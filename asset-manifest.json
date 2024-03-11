@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/nivee-portfolio/static/css/main.5ded82a6.css",
+    "main.js": "/nivee-portfolio/static/js/main.98b59200.js",
+    "static/media/project7.png": "/nivee-portfolio/static/media/project7.0de5b6ad5ce9eff93e84.png",
+    "static/media/project13.png": "/nivee-portfolio/static/media/project13.03879dd25bec6ee89dc7.png",
+    "static/media/project3.png": "/nivee-portfolio/static/media/project3.2e4cfdd56bf84743a9dd.png",
+    "static/media/project5.png": "/nivee-portfolio/static/media/project5.6fbf2077548b5ae6f5a2.png",
+    "static/media/resume.pdf": "/nivee-portfolio/static/media/resume.7c071ec026140998efb3.pdf",
+    "static/media/project8.png": "/nivee-portfolio/static/media/project8.3bcf1e70a781d404ca4a.png",
+    "static/media/header2.jpg": "/nivee-portfolio/static/media/header2.125d41697357f07ffa3d.jpg",
+    "static/media/project9.png": "/nivee-portfolio/static/media/project9.bedad406bc3249d76646.png",
+    "static/media/project4.png": "/nivee-portfolio/static/media/project4.867549a5d0ad636df63d.png",
+    "static/media/project1.png": "/nivee-portfolio/static/media/project1.fde270df12fc9aa6f8fa.png",
+    "static/media/project6.png": "/nivee-portfolio/static/media/project6.1f9733d5059a7c626495.png",
+    "static/media/project10.png": "/nivee-portfolio/static/media/project10.46812c7c71c33d4a0f66.png",
+    "static/media/about.jpg": "/nivee-portfolio/static/media/about.4d4110f921ac3f783878.jpg",
+    "static/media/logo.png": "/nivee-portfolio/static/media/logo.a420ba36968d68439095.png",
+    "index.html": "/nivee-portfolio/index.html",
+    "main.5ded82a6.css.map": "/nivee-portfolio/static/css/main.5ded82a6.css.map",
+    "main.98b59200.js.map": "/nivee-portfolio/static/js/main.98b59200.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ded82a6.css",
+    "static/js/main.98b59200.js"
+  ]
+}
