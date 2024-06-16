@@ -1,3 +1,16 @@
+Features, this is my full-featured, modern, responsive portfolio website with:
+
+Complete theme customization functionality that stores theme state/value in the browser's local storage. This way the clients will have their last theme settings saved even if they close their browser or refresh the page.
+
+Animate-On-Scroll feature
+
+Convenient Contact Options (WhatsApp, messenger, mail)
+
+Filterable portfolio projects
+
+Elegant Floating Navbar (for tablets and phones), and more!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
